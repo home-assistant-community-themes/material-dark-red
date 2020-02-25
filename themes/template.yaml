@@ -34,3 +34,4 @@ material_dark_red:
   sidebar-text_-_background: "#333333"
   table-row-alternative-background-color: "var(--sidebar-text_-_background)"
   table-row-background-color: "var(--paper-card-background-color)"
+  card-background-color: "var(--paper-card-background-color)"
