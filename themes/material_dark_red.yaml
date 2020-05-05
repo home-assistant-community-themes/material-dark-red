@@ -31,6 +31,7 @@ material_dark_red:
   primary-text-color: "#cfcfcf"
   secondary-background-color: "#131313"
   secondary-text-color: "var(--primary-color)"
+  sidebar-background-color: "#333333"
   sidebar-icon-color: "var(--paper-item-icon-color)"
   sidebar-text_-_background: "#333333"
   table-row-alternative-background-color: "var(--sidebar-text_-_background)"
