@@ -1,7 +1,7 @@
 # Material Dark Red Theme
 
 [![Build Status](https://www.travis-ci.org/home-assistant-community-themes/material-dark-red.svg?branch=master)](https://www.travis-ci.org/home-assistant-community-themes/material-dark-red)
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
 
 > The Material Dark Red Theme by 95gabor
 
